@@ -2,5 +2,7 @@
 
 A Responsive navbar created with react
 
-<image src="/assets/navbar.png" alt="navbar">
-<image src="/assets/navbar2.png" alt="navbar responsive">
+![Descripción de la imagen](./public/assets/navbar.png)
+
+![Descripción de la imagen](./public/assets/navbar2.png)
+
